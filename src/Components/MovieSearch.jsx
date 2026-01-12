@@ -9,8 +9,9 @@ const MovieSearch = ({onSearch}) => {
     }
 
   return (
-    <form onSubmit={handleSubmit}>
+    <form onSubmit={handleSubmit} >
         <input
+        className='search'
             minLength={1}
             value={searchTerm}
             type='text'
