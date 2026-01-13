@@ -19,5 +19,9 @@ A dynamic movie discovery application built with React that interfaces with the 
 * **CSS:** Advanced styling using CSS Grid for the gallery, Flexbox for card alignment, and responsive media queries for mobile devices. Was created alongside AI help for visual styling mainly.
 
 <img width="1920" height="1728" alt="image" src="https://github.com/user-attachments/assets/4ed28dc4-b97c-409f-8310-b4ae74bdc461" />
+<br>
+<br>
 <img width="1920" height="878" alt="image" src="https://github.com/user-attachments/assets/7cd155e0-454b-4bc0-9258-c174443137e0" />
+<br>
+<br>
 <img width="1920" height="935" alt="image" src="https://github.com/user-attachments/assets/1e1ee941-f4b5-472a-aa49-70b75e4a7435" />
